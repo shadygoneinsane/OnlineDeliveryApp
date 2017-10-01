@@ -1,0 +1,846 @@
+[
+  {
+    "countryCode" : "KF",
+    "mobileCode" : "62"
+  },
+  {
+    "countryCode" : "PR",
+    "mobileCode" : "1787"
+  },
+  {
+    "countryCode" : "MX",
+    "mobileCode" : "52"
+  },
+  {
+    "countryCode" : "SN",
+    "mobileCode" : "221"
+  },
+  {
+    "countryCode" : "VI",
+    "mobileCode" : "1340"
+  },
+  {
+    "countryCode" : "MY",
+    "mobileCode" : "60"
+  },
+  {
+    "countryCode" : "PT",
+    "mobileCode" : "351"
+  },
+  {
+    "countryCode" : "BR",
+    "mobileCode" : "55"
+  },
+  {
+    "countryCode" : "SO",
+    "mobileCode" : "252"
+  },
+  {
+    "countryCode" : "YE",
+    "mobileCode" : "967"
+  },
+  {
+    "countryCode" : "MZ",
+    "mobileCode" : "258"
+  },
+  {
+    "countryCode" : "BS",
+    "mobileCode" : "1242"
+  },
+  {
+    "countryCode" : "KE",
+    "mobileCode" : "254"
+  },
+  {
+    "countryCode" : "BT",
+    "mobileCode" : "975"
+  },
+  {
+    "countryCode" : "PW",
+    "mobileCode" : "680"
+  },
+  {
+    "countryCode" : "NA",
+    "mobileCode" : "264"
+  },
+  {
+    "countryCode" : "HK",
+    "mobileCode" : "852"
+  },
+  {
+    "countryCode" : "SR",
+    "mobileCode" : "597"
+  },
+  {
+    "countryCode" : "SS",
+    "mobileCode" : "211"
+  },
+  {
+    "countryCode" : "VN",
+    "mobileCode" : "84"
+  },
+  {
+    "countryCode" : "PY",
+    "mobileCode" : "595"
+  },
+  {
+    "countryCode" : "BW",
+    "mobileCode" : "267"
+  },
+  {
+    "countryCode" : "NC",
+    "mobileCode" : "687"
+  },
+  {
+    "countryCode" : "ER",
+    "mobileCode" : "291"
+  },
+  {
+    "countryCode" : "KH",
+    "mobileCode" : "855"
+  },
+  {
+    "countryCode" : "ST",
+    "mobileCode" : "239"
+  },
+  {
+    "countryCode" : "HN",
+    "mobileCode" : "504"
+  },
+  {
+    "countryCode" : "KI",
+    "mobileCode" : "686"
+  },
+  {
+    "countryCode" : "ES",
+    "mobileCode" : "34"
+  },
+  {
+    "countryCode" : "SV",
+    "mobileCode" : "503"
+  },
+  {
+    "countryCode" : "BY",
+    "mobileCode" : "375"
+  },
+  {
+    "countryCode" : "NE",
+    "mobileCode" : "227"
+  },
+  {
+    "countryCode" : "ET",
+    "mobileCode" : "251"
+  },
+  {
+    "countryCode" : "BZ",
+    "mobileCode" : "501"
+  },
+  {
+    "countryCode" : "QA",
+    "mobileCode" : "974"
+  },
+  {
+    "countryCode" : "NG",
+    "mobileCode" : "234"
+  },
+  {
+    "countryCode" : "SY",
+    "mobileCode" : "963"
+  },
+  {
+    "countryCode" : "HR",
+    "mobileCode" : "385"
+  },
+  {
+    "countryCode" : "CA",
+    "mobileCode" : "1"
+  },
+  {
+    "countryCode" : "SZ",
+    "mobileCode" : "268"
+  },
+  {
+    "countryCode" : "NI",
+    "mobileCode" : "505"
+  },
+  {
+    "countryCode" : "KN",
+    "mobileCode" : "1869"
+  },
+  {
+    "countryCode" : "VU",
+    "mobileCode" : "678"
+  },
+  {
+    "countryCode" : "HT",
+    "mobileCode" : "509"
+  },
+  {
+    "countryCode" : "HU",
+    "mobileCode" : "36"
+  },
+  {
+    "countryCode" : "KP",
+    "mobileCode" : "850"
+  },
+  {
+    "countryCode" : "NL",
+    "mobileCode" : "31"
+  },
+  {
+    "countryCode" : "KR",
+    "mobileCode" : "82"
+  },
+  {
+    "countryCode" : "CF",
+    "mobileCode" : "236"
+  },
+  {
+    "countryCode" : "TD",
+    "mobileCode" : "235"
+  },
+  {
+    "countryCode" : "NO",
+    "mobileCode" : "47"
+  },
+  {
+    "countryCode" : "CH",
+    "mobileCode" : "41"
+  },
+  {
+    "countryCode" : "NP",
+    "mobileCode" : "977"
+  },
+  {
+    "countryCode" : "CI",
+    "mobileCode" : "225"
+  },
+  {
+    "countryCode" : "TG",
+    "mobileCode" : "228"
+  },
+  {
+    "countryCode" : "KW",
+    "mobileCode" : "965"
+  },
+  {
+    "countryCode" : "NR",
+    "mobileCode" : "674"
+  },
+  {
+    "countryCode" : "CK",
+    "mobileCode" : "682"
+  },
+  {
+    "countryCode" : "TH",
+    "mobileCode" : "66"
+  },
+  {
+    "countryCode" : "CL",
+    "mobileCode" : "56"
+  },
+  {
+    "countryCode" : "KY",
+    "mobileCode" : "1345"
+  },
+  {
+    "countryCode" : "CM",
+    "mobileCode" : "237"
+  },
+  {
+    "countryCode" : "TJ",
+    "mobileCode" : "992"
+  },
+  {
+    "countryCode" : "KZ",
+    "mobileCode" : "7"
+  },
+  {
+    "countryCode" : "CN",
+    "mobileCode" : "86"
+  },
+  {
+    "countryCode" : "FI",
+    "mobileCode" : "358"
+  },
+  {
+    "countryCode" : "ID",
+    "mobileCode" : "62"
+  },
+  {
+    "countryCode" : "ZA",
+    "mobileCode" : "27"
+  },
+  {
+    "countryCode" : "WF",
+    "mobileCode" : "681"
+  },
+  {
+    "countryCode" : "CO",
+    "mobileCode" : "57"
+  },
+  {
+    "countryCode" : "FJ",
+    "mobileCode" : "679"
+  },
+  {
+    "countryCode" : "IE",
+    "mobileCode" : "353"
+  },
+  {
+    "countryCode" : "TM",
+    "mobileCode" : "993"
+  },
+  {
+    "countryCode" : "FK",
+    "mobileCode" : "500"
+  },
+  {
+    "countryCode" : "LA",
+    "mobileCode" : "856"
+  },
+  {
+    "countryCode" : "TN",
+    "mobileCode" : "216"
+  },
+  {
+    "countryCode" : "LB",
+    "mobileCode" : "961"
+  },
+  {
+    "countryCode" : "TO",
+    "mobileCode" : "676"
+  },
+  {
+    "countryCode" : "CR",
+    "mobileCode" : "506"
+  },
+  {
+    "countryCode" : "LC",
+    "mobileCode" : "1758"
+  },
+  {
+    "countryCode" : "NZ",
+    "mobileCode" : "64"
+  },
+  {
+    "countryCode" : "FO",
+    "mobileCode" : "298"
+  },
+  {
+    "countryCode" : "TR",
+    "mobileCode" : "90"
+  },
+  {
+    "countryCode" : "CU",
+    "mobileCode" : "53"
+  },
+  {
+    "countryCode" : "CV",
+    "mobileCode" : "238"
+  },
+  {
+    "countryCode" : "TT",
+    "mobileCode" : "1868"
+  },
+  {
+    "countryCode" : "FR",
+    "mobileCode" : "33"
+  },
+  {
+    "countryCode" : "IN",
+    "mobileCode" : "91"
+  },
+  {
+    "countryCode" : "LI",
+    "mobileCode" : "423"
+  },
+  {
+    "countryCode" : "CY",
+    "mobileCode" : "357"
+  },
+  {
+    "countryCode" : "TW",
+    "mobileCode" : "886"
+  },
+  {
+    "countryCode" : "CZ",
+    "mobileCode" : "420"
+  },
+  {
+    "countryCode" : "AD",
+    "mobileCode" : "376"
+  },
+  {
+    "countryCode" : "LK",
+    "mobileCode" : "94"
+  },
+  {
+    "countryCode" : "ZM",
+    "mobileCode" : "260"
+  },
+  {
+    "countryCode" : "WS",
+    "mobileCode" : "685"
+  },
+  {
+    "countryCode" : "IQ",
+    "mobileCode" : "964"
+  },
+  {
+    "countryCode" : "AE",
+    "mobileCode" : "971"
+  },
+  {
+    "countryCode" : "IR",
+    "mobileCode" : "98"
+  },
+  {
+    "countryCode" : "AF",
+    "mobileCode" : "93"
+  },
+  {
+    "countryCode" : "TZ",
+    "mobileCode" : "255"
+  },
+  {
+    "countryCode" : "IS",
+    "mobileCode" : "354"
+  },
+  {
+    "countryCode" : "AG",
+    "mobileCode" : "1268"
+  },
+  {
+    "countryCode" : "IT",
+    "mobileCode" : "39"
+  },
+  {
+    "countryCode" : "UA",
+    "mobileCode" : "380"
+  },
+  {
+    "countryCode" : "AI",
+    "mobileCode" : "1264"
+  },
+  {
+    "countryCode" : "DE",
+    "mobileCode" : "49"
+  },
+  {
+    "countryCode" : "LR",
+    "mobileCode" : "231"
+  },
+  {
+    "countryCode" : "GA",
+    "mobileCode" : "241"
+  },
+  {
+    "countryCode" : "OM",
+    "mobileCode" : "968"
+  },
+  {
+    "countryCode" : "LS",
+    "mobileCode" : "266"
+  },
+  {
+    "countryCode" : "AL",
+    "mobileCode" : "355"
+  },
+  {
+    "countryCode" : "GB",
+    "mobileCode" : "44"
+  },
+  {
+    "countryCode" : "LT",
+    "mobileCode" : "370"
+  },
+  {
+    "countryCode" : "AM",
+    "mobileCode" : "374"
+  },
+  {
+    "countryCode" : "ZW",
+    "mobileCode" : "263"
+  },
+  {
+    "countryCode" : "LU",
+    "mobileCode" : "352"
+  },
+  {
+    "countryCode" : "GD",
+    "mobileCode" : "1473"
+  },
+  {
+    "countryCode" : "LV",
+    "mobileCode" : "371"
+  },
+  {
+    "countryCode" : "DJ",
+    "mobileCode" : "253"
+  },
+  {
+    "countryCode" : "GE",
+    "mobileCode" : "995"
+  },
+  {
+    "countryCode" : "AO",
+    "mobileCode" : "244"
+  },
+  {
+    "countryCode" : "UG",
+    "mobileCode" : "256"
+  },
+  {
+    "countryCode" : "DK",
+    "mobileCode" : "45"
+  },
+  {
+    "countryCode" : "GF",
+    "mobileCode" : "594"
+  },
+  {
+    "countryCode" : "LY",
+    "mobileCode" : "218"
+  },
+  {
+    "countryCode" : "DM",
+    "mobileCode" : "1767"
+  },
+  {
+    "countryCode" : "GH",
+    "mobileCode" : "233"
+  },
+  {
+    "countryCode" : "AR",
+    "mobileCode" : "54"
+  },
+  {
+    "countryCode" : "RO",
+    "mobileCode" : "40"
+  },
+  {
+    "countryCode" : "GI",
+    "mobileCode" : "350"
+  },
+  {
+    "countryCode" : "AS",
+    "mobileCode" : "1684"
+  },
+  {
+    "countryCode" : "DO",
+    "mobileCode" : "1809"
+  },
+  {
+    "countryCode" : "AT",
+    "mobileCode" : "43"
+  },
+  {
+    "countryCode" : "AU",
+    "mobileCode" : "61"
+  },
+  {
+    "countryCode" : "MA",
+    "mobileCode" : "212"
+  },
+  {
+    "countryCode" : "RS",
+    "mobileCode" : "381"
+  },
+  {
+    "countryCode" : "GL",
+    "mobileCode" : "299"
+  },
+  {
+    "countryCode" : "GM",
+    "mobileCode" : "220"
+  },
+  {
+    "countryCode" : "AW",
+    "mobileCode" : "297"
+  },
+  {
+    "countryCode" : "MC",
+    "mobileCode" : "377"
+  },
+  {
+    "countryCode" : "RU",
+    "mobileCode" : "7"
+  },
+  {
+    "countryCode" : "MD",
+    "mobileCode" : "373"
+  },
+  {
+    "countryCode" : "GN",
+    "mobileCode" : "224"
+  },
+  {
+    "countryCode" : "ME",
+    "mobileCode" : "382"
+  },
+  {
+    "countryCode" : "RW",
+    "mobileCode" : "250"
+  },
+  {
+    "countryCode" : "AZ",
+    "mobileCode" : "994"
+  },
+  {
+    "countryCode" : "PA",
+    "mobileCode" : "507"
+  },
+  {
+    "countryCode" : "US",
+    "mobileCode" : "1"
+  },
+  {
+    "countryCode" : "MG",
+    "mobileCode" : "261"
+  },
+  {
+    "countryCode" : "GQ",
+    "mobileCode" : "240"
+  },
+  {
+    "countryCode" : "MH",
+    "mobileCode" : "692"
+  },
+  {
+    "countryCode" : "GR",
+    "mobileCode" : "30"
+  },
+  {
+    "countryCode" : "BA",
+    "mobileCode" : "387"
+  },
+  {
+    "countryCode" : "JM",
+    "mobileCode" : "1876"
+  },
+  {
+    "countryCode" : "BB",
+    "mobileCode" : "1246"
+  },
+  {
+    "countryCode" : "PE",
+    "mobileCode" : "51"
+  },
+  {
+    "countryCode" : "GT",
+    "mobileCode" : "502"
+  },
+  {
+    "countryCode" : "JO",
+    "mobileCode" : "962"
+  },
+  {
+    "countryCode" : "MK",
+    "mobileCode" : "389"
+  },
+  {
+    "countryCode" : "DZ",
+    "mobileCode" : "213"
+  },
+  {
+    "countryCode" : "PF",
+    "mobileCode" : "689"
+  },
+  {
+    "countryCode" : "GU",
+    "mobileCode" : "1671"
+  },
+  {
+    "countryCode" : "BD",
+    "mobileCode" : "880"
+  },
+  {
+    "countryCode" : "ML",
+    "mobileCode" : "223"
+  },
+  {
+    "countryCode" : "PG",
+    "mobileCode" : "675"
+  },
+  {
+    "countryCode" : "BE",
+    "mobileCode" : "32"
+  },
+  {
+    "countryCode" : "JP",
+    "mobileCode" : "81"
+  },
+  {
+    "countryCode" : "SA",
+    "mobileCode" : "966"
+  },
+  {
+    "countryCode" : "MM",
+    "mobileCode" : "95"
+  },
+  {
+    "countryCode" : "PH",
+    "mobileCode" : "63"
+  },
+  {
+    "countryCode" : "GW",
+    "mobileCode" : "245"
+  },
+  {
+    "countryCode" : "BF",
+    "mobileCode" : "226"
+  },
+  {
+    "countryCode" : "SC",
+    "mobileCode" : "248"
+  },
+  {
+    "countryCode" : "MN",
+    "mobileCode" : "976"
+  },
+  {
+    "countryCode" : "BG",
+    "mobileCode" : "359"
+  },
+  {
+    "countryCode" : "SB",
+    "mobileCode" : "677"
+  },
+  {
+    "countryCode" : "SD",
+    "mobileCode" : "249"
+  },
+  {
+    "countryCode" : "UY",
+    "mobileCode" : "598"
+  },
+  {
+    "countryCode" : "MO",
+    "mobileCode" : "853"
+  },
+  {
+    "countryCode" : "EC",
+    "mobileCode" : "593"
+  },
+  {
+    "countryCode" : "GY",
+    "mobileCode" : "592"
+  },
+  {
+    "countryCode" : "BH",
+    "mobileCode" : "973"
+  },
+  {
+    "countryCode" : "SE",
+    "mobileCode" : "46"
+  },
+  {
+    "countryCode" : "VA",
+    "mobileCode" : "379"
+  },
+  {
+    "countryCode" : "MP",
+    "mobileCode" : "1670"
+  },
+  {
+    "countryCode" : "PK",
+    "mobileCode" : "92"
+  },
+  {
+    "countryCode" : "BI",
+    "mobileCode" : "257"
+  },
+  {
+    "countryCode" : "UZ",
+    "mobileCode" : "998"
+  },
+  {
+    "countryCode" : "PL",
+    "mobileCode" : "48"
+  },
+  {
+    "countryCode" : "EE",
+    "mobileCode" : "372"
+  },
+  {
+    "countryCode" : "BJ",
+    "mobileCode" : "229"
+  },
+  {
+    "countryCode" : "SG",
+    "mobileCode" : "65"
+  },
+  {
+    "countryCode" : "MR",
+    "mobileCode" : "222"
+  },
+  {
+    "countryCode" : "PM",
+    "mobileCode" : "508"
+  },
+  {
+    "countryCode" : "VC",
+    "mobileCode" : "1784"
+  },
+  {
+    "countryCode" : "MS",
+    "mobileCode" : "1664"
+  },
+  {
+    "countryCode" : "EG",
+    "mobileCode" : "20"
+  },
+  {
+    "countryCode" : "SI",
+    "mobileCode" : "386"
+  },
+  {
+    "countryCode" : "MT",
+    "mobileCode" : "356"
+  },
+  {
+    "countryCode" : "BM",
+    "mobileCode" : "1441"
+  },
+  {
+    "countryCode" : "VE",
+    "mobileCode" : "58"
+  },
+  {
+    "countryCode" : "MU",
+    "mobileCode" : "230"
+  },
+  {
+    "countryCode" : "BN",
+    "mobileCode" : "673"
+  },
+  {
+    "countryCode" : "SK",
+    "mobileCode" : "421"
+  },
+  {
+    "countryCode" : "MV",
+    "mobileCode" : "960"
+  },
+  {
+    "countryCode" : "BO",
+    "mobileCode" : "591"
+  },
+  {
+    "countryCode" : "SL",
+    "mobileCode" : "232"
+  },
+  {
+    "countryCode" : "VG",
+    "mobileCode" : "1284"
+  },
+  {
+    "countryCode" : "SM",
+    "mobileCode" : "378"
+  },
+  {
+    "countryCode" : "MW",
+    "mobileCode" : "265"
+  }
+]

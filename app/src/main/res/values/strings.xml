@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WingsnSides</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+    <string name="set_location_text">Set Location</string>
+    <string name="city_text">City</string>
+    <string name="area_text">Area</string>
+    <string name="show_results">Show Results</string>
+
+    <string name="chicken_wings_text">Chicken Wings</string>
+    <string name="turkey_wings_text">Turkey Wings</string>
+    <string name="sides_text">Sides</string>
+    <string name="extra_text">Extra</string>
+    <string name="drink_n_desert_text">Drink &amp; Desert</string>
+    <string name="order_here_text">Order Here</string>
+    <string name="loyalty_points_text">Loyalty Points</string>
+    <string name="contact_us_text">Contact Us</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Classic_Buffalo_Wings">Classic Buffalo Wings</string>
+    <string name="Crispy_Italian_Fliers">Crispy Italian Fliers</string>
+    <string name="contact_email_id">wingsnsides@gmail.com</string>
+    <string name="hezra_about">Welcome to Wings n Sides, the home of the best wings in Lagos
+Come enjoy the best of American Southern Hospitality mixed with the cultural rhythms and flavors of New York to the heart beat of Lagos, Victoria Island.
+Our wings come naked or slightly coated and tossed to perfection in the most amazing flavors. From all time classics—honey BBQ and Sweet Chipotle; our specially created flavors—Waffle Yaji and Coconut Island. Select from more than 20 delicious and tantalizing flavors and more than 15 different sides. Ours is the ultimate wings. What are you waiting for, you will be spoilt for choice.  Order your wings today and spoil to palate!!</string>
+    <string name="who_we_are">Who we are :</string>
+
+
+    <string name="check_your_internet_connection">Please check your internet connection</string>
+</resources>

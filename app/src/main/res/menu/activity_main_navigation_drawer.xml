@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_chicken_wings"
+            android:icon="@drawable/ic_chicken"
+            android:title="@string/chicken_wings_text" />
+    </group>
+
+    <group
+        android:id="@+id/menu_2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_turkey_wings"
+            android:icon="@drawable/ic_turkey"
+            android:title="@string/turkey_wings_text" />
+    </group>
+
+    <group
+        android:id="@+id/menu_3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sides"
+            android:icon="@drawable/ic_sides"
+            android:title="@string/sides_text" />
+    </group>
+
+    <group
+        android:id="@+id/menu_4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_extra"
+            android:icon="@drawable/ic_extras2"
+            android:title="@string/extra_text" />
+    </group>
+
+    <group
+        android:id="@+id/menu_5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_drink_n_desert"
+            android:icon="@drawable/ic_drink"
+            android:title="@string/drink_n_desert_text" />
+    </group>
+
+    <group
+        android:id="@+id/menu_6"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_order_here"
+            android:icon="@drawable/ic_order"
+            android:title="@string/order_here_text" />
+    </group>
+
+    <group
+        android:id="@+id/menu_7"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_loyalty_points"
+            android:icon="@drawable/ic_loyality"
+            android:title="@string/loyalty_points_text" />
+    </group>
+
+    <group
+        android:id="@+id/menu_8"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_contact"
+            android:title="@string/contact_us_text" />
+    </group>
+
+</menu>
